@@ -16,13 +16,16 @@
         </style>
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
+        <nav>
+            <x-link-nav>Home</x-link-nav>
+            <x-link-nav>contact</x-link-nav>
+            <x-link-nav>About</x-link-nav>
+            <x-link-nav>Meet the team</x-link-nav>
 
-      <nav>
-          <a href="/">Home Page</a>
-          <a href="/about">About Us</a>
-          <a href="/contact">Contact Us</a>
 
-          </nav>
+           </nav>
+
+      {{$slot}}
 
     </body>
 </html>
