@@ -1,7 +1,5 @@
  <x-layout>
-<h1>Hello again </h>
-    <H1>Contact Zohorat Masry</H1>
-
+        <x-slot:heading>Contact Us</x-slot>
       Contact Us
       Have a question, suggestion, or just want to say hello? We'd love to hear from you! Feel free to reach out using the form below or contact us directly via email or phone.
 

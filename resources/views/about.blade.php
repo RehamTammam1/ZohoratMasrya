@@ -1,5 +1,5 @@
  <x-layout>
-     <H1>About Zohorat Masry</H1>
+   <x-slot:heading>About</x-slot>
 
       About Zohorat Masrya
 
