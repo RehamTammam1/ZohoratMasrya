@@ -1,5 +1,3 @@
 <x-layout>
-Meet our team
-
-
+   <x-slot:heading>Meet out Team</x-slot>
 </x-layout>
