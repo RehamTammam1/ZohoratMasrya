@@ -1,5 +1,6 @@
  <x-layout>
    <x-slot:heading>About</x-slot>
+     <h1>{{$greeting}}</h1>
 
       About Zohorat Masrya
 
