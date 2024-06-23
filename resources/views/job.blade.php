@@ -8,7 +8,4 @@
                 </li
         
         </ul>
-
-     
-
      </x-layout>
